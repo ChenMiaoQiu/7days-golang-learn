@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ChenMiaoQiu/7days-golang-learn/Cache/day5/geecache"
+	"github.com/ChenMiaoQiu/7days-golang-learn/Cache/day7/geecache"
 )
 
 var db = map[string]string{

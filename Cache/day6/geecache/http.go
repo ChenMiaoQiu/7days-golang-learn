@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ChenMiaoQiu/7days-golang-learn/Cache/day5/geecache/consistenthash"
+	"github.com/ChenMiaoQiu/7days-golang-learn/Cache/day6/geecache/consistenthash"
 )
 
 const (
